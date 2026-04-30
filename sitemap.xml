@@ -1,43 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://studentcalclab.com/</loc></url>
-<url><loc>https://studentcalclab.com/tools.html</loc></url>
-<url><loc>https://studentcalclab.com/about.html</loc></url>
-<url><loc>https://studentcalclab.com/contact.html</loc></url>
-<url><loc>https://studentcalclab.com/gpa-calculator.html</loc></url>
-<url><loc>https://studentcalclab.com/final-grade-calculator.html</loc></url>
-<url><loc>https://studentcalclab.com/required-score-calculator.html</loc></url>
-<url><loc>https://studentcalclab.com/grade-percentage-calculator.html</loc></url>
-<url><loc>https://studentcalclab.com/weighted-grade-calculator.html</loc></url>
-<url><loc>https://studentcalclab.com/test-score-calculator.html</loc></url>
-<url><loc>https://studentcalclab.com/assignment-grade-calculator.html</loc></url>
-<url><loc>https://studentcalclab.com/semester-grade-calculator.html</loc></url>
-<url><loc>https://studentcalclab.com/college-gpa-calculator.html</loc></url>
-<url><loc>https://studentcalclab.com/high-school-gpa-calculator.html</loc></url>
-<url><loc>https://studentcalclab.com/study-time-calculator.html</loc></url>
-<url><loc>https://studentcalclab.com/study-timer.html</loc></url>
-<url><loc>https://studentcalclab.com/pomodoro-timer.html</loc></url>
-<url><loc>https://studentcalclab.com/exam-countdown.html</loc></url>
-<url><loc>https://studentcalclab.com/homework-time-calculator.html</loc></url>
-<url><loc>https://studentcalclab.com/reading-time-calculator.html</loc></url>
-<url><loc>https://studentcalclab.com/essay-word-count-calculator.html</loc></url>
-<url><loc>https://studentcalclab.com/words-per-page-calculator.html</loc></url>
-<url><loc>https://studentcalclab.com/citation-count-calculator.html</loc></url>
-<url><loc>https://studentcalclab.com/class-average-calculator.html</loc></url>
-<url><loc>https://studentcalclab.com/grade-drop-calculator.html</loc></url>
-<url><loc>https://studentcalclab.com/extra-credit-calculator.html</loc></url>
-<url><loc>https://studentcalclab.com/attendance-percentage-calculator.html</loc></url>
-<url><loc>https://studentcalclab.com/absence-calculator.html</loc></url>
-<url><loc>https://studentcalclab.com/schedule-planner.html</loc></url>
-<url><loc>https://studentcalclab.com/credit-hour-calculator.html</loc></url>
-<url><loc>https://studentcalclab.com/tuition-per-credit-calculator.html</loc></url>
-<url><loc>https://studentcalclab.com/student-budget-calculator.html</loc></url>
-<url><loc>https://studentcalclab.com/scholarship-calculator.html</loc></url>
-<url><loc>https://studentcalclab.com/loan-payment-estimator.html</loc></url>
-<url><loc>https://studentcalclab.com/percent-change-calculator.html</loc></url>
-<url><loc>https://studentcalclab.com/average-calculator.html</loc></url>
-<url><loc>https://studentcalclab.com/percentage-calculator.html</loc></url>
-<url><loc>https://studentcalclab.com/fraction-to-percent-calculator.html</loc></url>
-<url><loc>https://studentcalclab.com/decimal-to-percent-calculator.html</loc></url>
-<url><loc>https://studentcalclab.com/unit-conversion-calculator.html</loc></url>
+
+  <url>
+    <loc>https://studentcalclab.com/</loc>
+    <lastmod>2026-04-29</lastmod>
+  </url>
+
+  <url>
+    <loc>https://studentcalclab.com/gpa-calculator.html</loc>
+    <lastmod>2026-04-29</lastmod>
+  </url>
+
+  <url>
+    <loc>https://studentcalclab.com/final-grade-calculator.html</loc>
+    <lastmod>2026-04-29</lastmod>
+  </url>
+
+  <url>
+    <loc>https://studentcalclab.com/study-timer.html</loc>
+    <lastmod>2026-04-29</lastmod>
+  </url>
+
 </urlset>
